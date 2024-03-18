@@ -1,6 +1,9 @@
 # Informações 
 Aluno: João Gabriel Torres do Nascimento
+
 Cadeira: Banco de Dados I 
+
+Trabalho: número 1 biblioteca
 # Descrição 
 Repositório do para o projeto de bancos de dados.
 # Elementos
@@ -21,7 +24,7 @@ Entidades:
 Requisitos mínimos: 
 
 autor (entidade), emprestimo (relacionamento),
-livros (entidade) e usuário.
+livros (entidade) e usuário (entidadei).
 
 Requisitos adicionais: 
 
@@ -36,7 +39,7 @@ Funcionário - é uma especialização de usúario. A biblioteca pode
 atender tanto pessoas de dentro da universidade quanto de fora. 
 Os funcionários podem gerenciar ou trabalhar em departamentos.
 
-Aluno - é uma especialização de usuário.
+Aluno - é uma especialização de usuário. Os alunos possuem benefícios sobre produtos das publicadoras que possuem parceria com a secretaria da biblioteca.  
 
 Professor - é uma especialização de funcionário.
 
