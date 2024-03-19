@@ -5,7 +5,9 @@ Cadeira: Banco de Dados I
 
 Trabalho: número 1 biblioteca
 # Descrição 
-Repositório do para o projeto de bancos de dados.
+Repositório do para o projeto de bancos de dados. O arquivo
+modeloBDSM.br3 deve ser aberto utilizando o software do 
+brmodelo.
 # Elementos
 Entidades: 
 - Autor
